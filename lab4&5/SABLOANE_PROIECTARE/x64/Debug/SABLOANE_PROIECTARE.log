@@ -1,0 +1,32 @@
+﻿  SABLOANE_PROIECTARE.cpp
+C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.cpp(27,16): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.cpp(39,14): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.cpp(41,86): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.cpp(43,84): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.cpp(45,86): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.cpp(47,84): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  SABLOANE_PROIECTARE.vcxproj -> C:\Users\Lenovo\Desktop\SABLOANE_PROIECTARE - Copy\x64\Debug\SABLOANE_PROIECTARE.exe
