@@ -1,0 +1,63 @@
+﻿Build started 1/2/2023 1:39:26 PM.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\Lenovo\Desktop\lab4&5\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\SABLOANE.22adb932.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /I"C:\Users\Lenovo\Downloads\jsoncpp-master\jsoncpp-master\include" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "..\..\..\Downloads\jsoncpp-master\jsoncpp-master\dist\jsoncpp.cpp" AlignStrategy.cpp Author.cpp BMPImageLoader.cpp Book.cpp BookStatistics.cpp ConcreteVisitor.cpp Element.cpp Image.cpp ImageLoader.cpp ImageLoaderFactory.cpp ImageProxi.cpp JPGImageLoader.cpp Paragraph.cpp Picture.cpp PictureContent.cpp SABLOANE_PROIECTARE.cpp Section.cpp Table.cpp TableOfContent.cpp Visitor.cpp
+         jsoncpp.cpp
+         AlignStrategy.cpp
+         Author.cpp
+         BMPImageLoader.cpp
+         Book.cpp
+         BookStatistics.cpp
+         ConcreteVisitor.cpp
+         Element.cpp
+         Image.cpp
+         ImageLoader.cpp
+         ImageLoaderFactory.cpp
+         ImageProxi.cpp
+         JPGImageLoader.cpp
+         Paragraph.cpp
+         Picture.cpp
+         PictureContent.cpp
+         SABLOANE_PROIECTARE.cpp
+         Section.cpp
+         Table.cpp
+         TableOfContent.cpp
+         Generating Code...
+         Compiling...
+         Visitor.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Desktop\lab4&5\x64\Debug\SABLOANE_PROIECTARE.exe" /INCREMENTAL /ILK:"x64\Debug\SABLOANE_PROIECTARE.ilk" /NOLOGO opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Desktop\lab4&5\x64\Debug\SABLOANE_PROIECTARE.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Desktop\lab4&5\x64\Debug\SABLOANE_PROIECTARE.lib" /MACHINE:X64 x64\Debug\jsoncpp.obj
+         x64\Debug\AlignStrategy.obj
+         x64\Debug\Author.obj
+         x64\Debug\BMPImageLoader.obj
+         x64\Debug\Book.obj
+         x64\Debug\BookStatistics.obj
+         x64\Debug\ConcreteVisitor.obj
+         x64\Debug\Element.obj
+         x64\Debug\Image.obj
+         x64\Debug\ImageLoader.obj
+         x64\Debug\ImageLoaderFactory.obj
+         x64\Debug\ImageProxi.obj
+         x64\Debug\JPGImageLoader.obj
+         x64\Debug\Paragraph.obj
+         x64\Debug\Picture.obj
+         x64\Debug\PictureContent.obj
+         x64\Debug\SABLOANE_PROIECTARE.obj
+         x64\Debug\Section.obj
+         x64\Debug\Table.obj
+         x64\Debug\TableOfContent.obj
+         x64\Debug\Visitor.obj
+         SABLOANE_PROIECTARE.vcxproj -> C:\Users\Lenovo\Desktop\lab4&5\x64\Debug\SABLOANE_PROIECTARE.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\SABLOANE.22adb932.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\SABLOANE.22adb932.tlog\SABLOANE_PROIECTARE.lastbuildstate".
+     1>Done Building Project "C:\Users\Lenovo\Desktop\lab4&5\SABLOANE_PROIECTARE\SABLOANE_PROIECTARE.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:07.55
